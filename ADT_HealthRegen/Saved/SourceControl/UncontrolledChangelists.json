@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jabai/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ADTAssets/Menu2_WBP.uasset",
+				"C:/Users/jabai/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ADTAssets/Menu1_WBP.uasset",
+				"C:/Users/jabai/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ADTAssets/Menu3_WBP.uasset",
+				"C:/Users/jabai/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ADTAssets/PointsShop_WBP.uasset",
 				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ADTAssets/HealthSystem_WBP.uasset",
