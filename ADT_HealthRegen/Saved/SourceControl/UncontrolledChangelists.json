@@ -5,10 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/jabai/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ADTAssets/Menu2_WBP.uasset",
-				"C:/Users/jabai/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ADTAssets/Menu1_WBP.uasset",
-				"C:/Users/jabai/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ADTAssets/Menu3_WBP.uasset",
-				"C:/Users/jabai/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ADTAssets/PointsShop_WBP.uasset",
 				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ADTAssets/HealthSystem_WBP.uasset",
@@ -26,6 +22,17 @@
 				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ThirdPerson/Input/Actions/IA_Attack.uasset",
 				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ThirdPerson/Input/Actions/IA_ShopOpen.uasset",
 				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/DW/CZIO0DMVS8OJMD1RCIPG4F.uasset",
+				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/PE/SBODEZUFEAQ8782920LAOY.uasset",
+				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/R3/T7N19ZQN2MOALPMVMJIYC7.uasset",
+				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/NR/6R96GRL8NF9UU8PFLOZ7BP.uasset",
+				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/JS/IE1T1R0T1K84JU55IQ9BEO.uasset",
+				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ThirdPerson/Input/Actions/IA_AirDash.uasset",
+				"C:/Users/jabai/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ADTAssets/Menu2_WBP.uasset",
+				"C:/Users/jabai/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ADTAssets/Menu1_WBP.uasset",
+				"C:/Users/jabai/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ADTAssets/Menu3_WBP.uasset",
+				"C:/Users/jabai/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ADTAssets/PointsShop_WBP.uasset",
 				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
 				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
 				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
@@ -47,13 +54,7 @@
 				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
 				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
 				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
-				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
-				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
-				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
-				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/PE/SBODEZUFEAQ8782920LAOY.uasset",
-				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/R3/T7N19ZQN2MOALPMVMJIYC7.uasset",
-				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/NR/6R96GRL8NF9UU8PFLOZ7BP.uasset",
-				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/JS/IE1T1R0T1K84JU55IQ9BEO.uasset"
+				"C:/Users/D3303414/Source/ADTD3303414JamesBainbridge_Project/ADT_HealthRegen/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset"
 			]
 		}
 	]
